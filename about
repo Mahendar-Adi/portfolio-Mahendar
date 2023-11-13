@@ -14,7 +14,7 @@
     <br>
         
     <div class="rk1">
-        <p><button><a href="index.html">Home</a></button></p>
+      <p><button><a href="index.html">Home</a></button></p>
       
       <h1 class="r1">Mahendar Adi</h1>
       <h1 class="rk2">Currently completed : B.Tech (EEE)</h1>
@@ -23,9 +23,6 @@
       <h1 class="rk2">University : Cmr College Of Engineering and Technology</h1>
       <p class="rk3"><b>BHARAT INTERN</b></p>
     <br>
-        
-      
-      
     </div> 
 
     <br>
